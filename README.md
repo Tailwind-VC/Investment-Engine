@@ -30,7 +30,7 @@ William is an investment professional in Los Angeles. He is actively reviewing t
 
 Emily - VP
 
-Emily is a software engineer at Google based in San Franscisco. She is actively sourcing deals and meeting founders in the Bay Area. Emily is deeply involved in the start-up community and she has strong deal-sourcing experience.
+Emily is a software engineer at Google based in San Jose / San Franscisco. She is actively sourcing deals and meeting founders in the Bay Area. Emily is deeply involved in the start-up community and she has strong deal-sourcing experience.
 
 Anthony - Advisor on Web 3, Blockchain, NFT, Gaming
 

@@ -12,7 +12,7 @@ We have a systematic rating system focusing on key elements
 3. Market Trend (why timing is now)
 4. Traction (what are evidence for the team ability to execute)
 5. Compeition 
-6. Deal terms
+6. Deal terms (we want asymmetric risk reward payoff)
 7. Co-Investors and strategic partnership
 
 We built a research database that has all the key metrics and takeaways from all the deals we have looked in the past. We try to understand the valuation and relative value between the companies.

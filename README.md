@@ -37,15 +37,15 @@ Anthony - Advisor on Web 3, Blockchain, NFT, Gaming
 Anthony is a software engineer at Amazon based in Los Angeles. He is responsible for payment system at AWS. He is one of many early adopters in Web 3 community and Axie Infinity. He graduated from UIUC with a bachelor in Civil Engineering and USC with a master in computer engineering.
 
 ### Current Selected Portfolio Companies
-Superplastic (https://superplastic.co/)
+[Superplastic] (https://superplastic.co/)
 
-Outer (https://liveouter.com/)
+[Outer] (https://liveouter.com/)
 
-Percent (https://percent.com/)
+[Percent] (https://percent.com/)
 
-Genesis Therapeutics (https://www.genesistherapeutics.ai/)
+[Genesis Therapeutics] (https://www.genesistherapeutics.ai/)
 
-Hilos.io (https://hilos.io/)
+[Hilos.io] (https://hilos.io/)
 
 
 ### We co-invested with many famous and legendary investors (selected few below)

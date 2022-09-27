@@ -48,7 +48,7 @@ Genesis Therapeutics (https://www.genesistherapeutics.ai/)
 Hilos.io (https://hilos.io/)
 
 
-### We co-invested with many big investors (selected few below)
+### We co-invested with many famous and legendary investors (selected few below)
 A16Z
 
 Sequoia Capital

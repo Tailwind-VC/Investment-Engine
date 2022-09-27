@@ -50,25 +50,45 @@ Hilos.io (https://hilos.io/)
 
 ### We co-invested with many big investors (selected few below)
 A16Z
+
 Sequoia Capital
+
 Index Ventures
+
 Founders Fund
+
 Google Ventures
+
 Uphonest Capital
+
 YCombinator
+
 Amazon
+
 Craft Ventures
+
 Galaxy Digital
+
 MANTIS Venture Capital
+
 Day One Ventures
+
 Radical Ventures
+
 Menlo Ventures
+
 500Startups 
+
 Starling Ventures
+
 White Star Capital
+
 Mucker Capital
+
 Capital Today
+
 Justin Timberlake
+
 Previous CEO at Uber (Ryan Graves)
 
 

@@ -7,10 +7,10 @@ We want to find start-ups that are founded to solve a very challenging problem w
 
 What is our investment process 
 We have a systematic rating system focusing on key elements
-1. Team (founder product fit)
+1. Team (why founders are the best fit team to build this product)
 2. Product and Market Fit 
 3. Market Trend (why timing is now)
-4. Traction (what are some evidence for the team ability to execute)
+4. Traction (what are evidence for the team ability to execute)
 5. Compeition 
 6. Deal terms
 7. Co-Investors and strategic partnership

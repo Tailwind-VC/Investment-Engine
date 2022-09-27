@@ -1,9 +1,9 @@
 # Investment Protocol at Tailwind VC
 
 ### Who we are
-Tailwind Ventures Capital is an early-stage venture firm focused on investing companies that can capture the growth tailwind. 
+Tailwind Ventures Capital is an early-stages (from seed to Series B) venture firm focused on investing companies that can capture the tailwind. 
 
-We focus primarily on early stages (from seed to Series B) and across software, deep-tech, and consumer industries.
+We invest across software, deep-tech, and consumer industries.
 
 We want to find start-ups that are founded to solve a very challenging problem with a scalable solution.
 

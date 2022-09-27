@@ -3,7 +3,7 @@
 ### Who we are
 Tailwind Ventures Capital is an early-stages (from seed to Series B) venture firm investing in companies that can capture the industry tailwind. 
 
-We invest across software, deep-tech, AI, financial technology, direct-to-consumer products, and media and entertainment companies.
+We invest across software, deep-tech, AI, financial technology, direct-to-consumer products, metaverse, media & entertainment companies.
 
 We want to find start-ups that are founded to solve a very challenging problem with a scalable solution.
 
@@ -37,15 +37,15 @@ Anthony - Advisor on Web 3, Blockchain, NFT, Gaming
 Anthony is a software engineer at Amazon based in Los Angeles. He is responsible for payment system at AWS. He is one of many early adopters in Web 3 community and Axie Infinity. He graduated from UIUC with a bachelor in Civil Engineering and USC with a master in computer engineering.
 
 ### Current Selected Portfolio Companies
-[Superplastic](https://superplastic.co/)
+[Superplastic](https://superplastic.co/) - Disney of the Metaverse. Creating a multi-billion dollar character-based IP brand of animated celebs, NFT, designer toys, and digital collectibles
 
-[Outer](https://liveouter.com/)
+[Outer](https://liveouter.com/) - the future DTC brand for outdoor furniture
 
-[Percent](https://percent.com/)
+[Percent](https://percent.com/) - AngelList for the $7 trillion private debt markets
 
-[Genesis Therapeutics](https://www.genesistherapeutics.ai/)
+[Genesis Therapeutics](https://www.genesistherapeutics.ai/) - AI-powered drug discovery platform
 
-[Hilos.io](https://hilos.io/)
+[Hilos.io](https://hilos.io/) - Zapier for WhatsApp. Allow any business to automate and build an app on WhatsAppp without any code
 
 
 ### We co-invested with many famous and legendary investors (selected few below)

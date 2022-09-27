@@ -26,7 +26,7 @@ We bring a diverse set of experience and skills on the table. We have experience
 
 William - Founder
 
-William is an investment professional in Los Angeles. He is actively reviewing the start-up companies that was sourced from our own network, ventures partnership, start-up communities. 
+William is an investment professional in Los Angeles. He is actively reviewing the start-up companies that was sourced from the Tailwind team's own network, ventures partnership, start-up communities.
 
 Emily - VP
 

@@ -28,7 +28,7 @@ William - Founder
 
 William is an investment professional in Los Angeles working at a $200 billion AUM Asset Management. He built experience in covering technology companies and have been invested in deals worth billions of dollars. He is actively reviewing the start-up companies that was sourced from the Tailwind team's own network, ventures partnership, start-up communities.
 
-Emily - VP
+Emily - Vice President
 
 Emily is a software engineer at Google based in San Jose / San Franscisco. She is actively sourcing deals and meeting founders in the Bay Area. Emily is deeply involved in the start-up community and she has strong deal-sourcing experience.
 

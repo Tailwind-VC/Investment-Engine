@@ -35,6 +35,8 @@ Anthony is a software engineer at Amazon based in Los Angeles. He is responsible
 ### Current Selected Portfolio Companies
 [Superplastic](https://superplastic.co/) - Disney of the Metaverse. Creating a multi-billion dollar character-based IP brand of animated celebs, NFT, designer toys, and digital collectibles
 
+[Playbook](https://playbookapp.io/) - Platform for fitness creators to build monthly subscription business and engage with their followers
+
 [Outer](https://liveouter.com/) - the future DTC brand for outdoor furniture
 
 [Percent](https://percent.com/) - AngelList for the $7 trillion private debt markets
@@ -87,6 +89,9 @@ Justin Timberlake
 
 Previous CEO at Uber (Ryan Graves)
 
+### Contact Us
+Email: Tailwindvc@gmail.com
+You can submit your pitch deck for your startup or refer a startup to this email
 
 ### Why our website is on Github.
 We believe in transparency with both our founders and investors.
